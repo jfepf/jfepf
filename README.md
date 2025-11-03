@@ -1,16 +1,40 @@
-## Hi there 👋
+# [root@github]# whoami
 
-<!--
-**jfepf/jfepf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> dev backend & mobile, thinking in systems — not trends.
 
-Here are some ideas to get you started:
+building digital things that *speak quietly but work loudly*.  
+writing code that survives time, not hype.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ stack / craft
+
+- backend: node • golang • python  
+- mobile: react native • kotlin • swift  
+- infra: docker • linux • nginx • aws  
+- db: postgres • redis  
+
+minimal code. clean logic. scalable structure.
+
+---
+
+## 🧩 projects
+
+> some live here, some stay private.  
+> all written with intent.
+
+- [`core-engine`](#) → backend skeleton for microservices  
+- [`synapse`](#) → mobile-first architecture experiment  
+- [`zero-page`](#) → minimalist personal site (under construction)
+
+---
+
+## 🕸️ link
+
+[`www.yoursite.dev`](#)
+
+---
+
+> "code is the closest thing we have to pure thought."  
+> — anonymous hacker
+
